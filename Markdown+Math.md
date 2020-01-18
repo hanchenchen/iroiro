@@ -67,7 +67,7 @@
 4. 对数运算，符号：`\log`，如：$\log(x)$
 5. 极限运算，符号：`\lim`，如：$\lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
 6. 极限运算，符号：`\displaystyle \lim`，如：$\displaystyle \lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
-7. 求和运算，符号：`\sum`，如：$\sum^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
+7. 求和运算，符号：`\sum` ，如：$\sum^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
 8. 求和运算，符号：`\displaystyle \sum`，如：$\displaystyle \sum^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
 9. 积分运算，符号：`\int`，如：$\int^{\infty}_{0}{xdx}$
 10. 积分运算，符号：`\displaystyle \int`，如：$\displaystyle \int^{\infty}_{0}{xdx}$
@@ -171,7 +171,7 @@
 
 ## 符号©️
 
-`⌊⌋` `⌈⌉` 
+`⌊⌋` `⌈⌉`  Σ
 
 
 
