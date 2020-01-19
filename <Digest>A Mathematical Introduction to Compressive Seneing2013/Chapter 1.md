@@ -92,10 +92,47 @@ $$
 
 ##### 统计与机器学习
 
-##### ==低秩矩阵恢复和矩阵完成==
+#### ==低秩矩阵恢复和矩阵完成==
 
 **Low-Rank Matrix Recovery and Matrix Completion**
 
  $x ∈ C^N  \ \Rightarrow \  X ∈ C^{n_1×n_2}$
 
 $ Sparsity  \ \Rightarrow \ low \ rank$
+$$
+minimize \ rank(Z) \ subject \ to \ A(Z) = y
+$$
+
+##### the singular value decomposition of X
+
+$$
+X=\sum^{n}_{l=1}{σ_lu_lv_l^*}
+$$
+
+> $n = min \{n_1,n_2\}$, σ~1~ ≥ σ~2~ ≥ ···σ~n~ ≥ 0 are the singular values of X, and $u_l ∈ C^{n_1}$ , $v_l ∈ C^{n_2}$ are the left and right singular vectors
+
+$rank(X)=\parallel σ(X) \parallel _0$
+
+##### *nuclear norm*
+
+( the $l_1$-norm of the singular value)
+
+$\parallel X \parallel _* =\parallel σ(X) \parallel _1 = \sum^{n}_{l=1}{σ_l(X)}$
+
+##### the nuclear norm minimization problem:
+
+$$
+minimize \ \parallel Z \parallel _* \ subject \ to \ A(Z) = y
+\tag{1.10}
+$$
+
+##### bound:
+
+$$
+m \geq Cs \ max\{n_1,n_2\} 
+$$
+
+### 1.3 概括全书
+
+
+
