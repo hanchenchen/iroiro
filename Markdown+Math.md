@@ -1,3 +1,11 @@
+## 公式
+
+$$
+minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P0}\label{eq:P0}
+$$
+
+$\ref{eq:P0}$
+
 ## CS
 
 范数：$\parallel$ ，$\Vert$， || 
@@ -327,3 +335,7 @@ https://www.zybuluo.com/fyywy520/note/82980
 https://www.jianshu.com/p/e74eb43960a1
 
 https://blog.csdn.net/m0_37167788/article/details/78603307
+
+https://commonmark.org/help/
+
+https://www.cnblogs.com/q735613050/p/7253073.html
