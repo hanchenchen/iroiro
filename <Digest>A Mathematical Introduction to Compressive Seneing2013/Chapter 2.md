@@ -135,4 +135,4 @@ $x_S$：x的第S个元素
 
 ##### Theorem 2.17.
 
-*For any* η ≥ 0*, the* $l_0$*-minimization problem* (P0,η) *for general* A∈Cm×N *and*y∈Cm *isNP-hard.*
+*For any* η ≥ 0*, the* $l_0$*-minimization problem* (P~0,η~) *for general* A∈C^m×N^ *and* y∈C^m^ *is NP-hard.*
