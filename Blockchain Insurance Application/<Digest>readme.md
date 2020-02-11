@@ -20,5 +20,4 @@
 - Use the connection profile from IBM Blockchain Platform to create application admins, and submit transactions from our client application.
 - View transaction details on our channel from IBM Blockchain Platform.
 
-![app-arch](/Users/cc/Desktop/iroiro/Blockchain Insurance Application/app-arch.png)
-
+![app-arch](https://github.com/hanchenchen/iroiro/Blockchain Insurance Application/app-arch.png)
