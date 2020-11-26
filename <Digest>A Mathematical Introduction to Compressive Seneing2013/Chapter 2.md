@@ -83,7 +83,7 @@ $matrix \  A ∈ C^{m×N} , and \ s-sparse \ x ∈ C^N $
 
 > (b)The vector x can be reconstructed as the unique solution of
 > $$
-> minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P0}\label{eq:P0}
+> minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P0}
 > $$
 >
 

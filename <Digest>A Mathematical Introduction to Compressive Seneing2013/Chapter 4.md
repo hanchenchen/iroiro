@@ -18,5 +18,5 @@ $l_1 - minimization$
 $$
 \sum ^{r}_{j=1} σ_j (M) <
 \sum ^{n}_{j=r+1} σ_j (M)
-\tag{4.40} 
+\tag{4.40}
 $$

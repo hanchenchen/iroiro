@@ -1,7 +1,7 @@
 ## 公式
 
 $$
-minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P0}\label{eq:P0}
+minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P0} \label{eq:P0}
 $$
 
 $\ref{eq:P0}$
@@ -86,7 +86,7 @@ $$\begin{cases} 方程式一\\ 方程式二\\ 方程式三\\ \end{cases} $$
 9. 积分运算，符号：`\int`，如：$\int^{\infty}_{0}{xdx}$
 10. 积分运算，符号：`\displaystyle \int`，如：$\displaystyle \int^{\infty}_{0}{xdx}$
 11. 微分运算，符号：`\partial`，如：$\frac{\partial x}{\partial y}$
-12. 矩阵表示，符号：`\begin{matrix} \end{matrix}`，如：$\left[ \begin{matrix} 1 &2 &\cdots &4\5 &6 &\cdots &8\\vdots &\vdots &\ddots &\vdots\13 &14 &\cdots &16\end{matrix} \right]$
+12. 矩阵表示，符号：`\begin{matrix} \end{matrix}`，如：$\left[ \begin{matrix} 1 &2 &\cdots &4\\5 &6 &\cdots &8\\\vdots &\vdots &\ddots &\vdots\\13 &14 &\cdots &16\end{matrix} \right]$
 
 ## 逻辑运算
 
