@@ -1,10 +1,11 @@
 ## 公式
 
 $$
-minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P0} \label{eq:P0}
+minimize \parallel z \parallel _0 \ subject \ to \ Az = y. \tag{P2} 
+\label{eq:P2}
 $$
 
-$\ref{eq:P0}$
+$\ref{eq:P2}$
 
 ## CS
 
@@ -322,7 +323,7 @@ $$\begin{cases} 方程式一\\ 方程式二\\ 方程式三\\ \end{cases} $$
 | Φ    | `\Phi`     | ϕ    | `\phi`     |
 | X    | `X`        | χ    | `\chi`     |
 | Ψ    | `\Psi`     | ψ    | `\psi`     |
-| Ω    | `\v`       | ω    | `\omega`   |
+| Ω    | `\Omega`   | ω    | `\omega`   |
 
 ## 符号©️
 
